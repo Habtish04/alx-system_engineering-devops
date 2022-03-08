@@ -1,2 +1,2 @@
 #!/bin/bash
-PHP
+echo 'Hello, World'
